@@ -24,19 +24,6 @@ Using **web scraping** techniques with **Selenium** and **BeautifulSoup**, we co
 - **Other Tools**:
   - Chromedriver for Selenium automation.
   
-## 📊 Visualizations
-
-1. **Job Offers by Company**  
-   ![Job Offers by Company](path_to_image_1)
-
-2. **Geographical Distribution of Job Offers**  
-   ![Geographical Distribution](path_to_image_2)
-
-3. **Top Skills Required in Job Offers**  
-   ![Top Skills](path_to_image_3)
-
-4. **Geographical Distribution of Alumni**  
-   ![Alumni Distribution](path_to_image_4)
 
 ## ⚙️ How It Works
 
